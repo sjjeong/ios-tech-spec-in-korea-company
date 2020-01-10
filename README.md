@@ -63,7 +63,7 @@
 ### [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
 - Silvy Mobile
 
-### [KingFisher](https://github.com/hackiftekhar/IQKeyboardManager)
+### [KingFisher](https://github.com/onevcat/Kingfisher)
 - Fitpet
 
 [L]
@@ -113,7 +113,7 @@
 ### [SwiftDate](https://github.com/malcommac/SwiftDate)
 - PRND Company
 
-### [SwiftLint](https://github.com/hackiftekhar/IQKeyboardManager)
+### [SwiftLint](https://github.com/realm/SwiftLint)
 - Fitpet
 
 ### [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes)
