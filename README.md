@@ -10,24 +10,78 @@
 |회사명/팀명|언어|아키텍쳐|회사 관련 링크|
 |:-:|:-:|:-:|:-:|
 |[PRND Company](https://prnd.co.kr/)|Swift|MVVM|[채용 및 업무환경](https://prnd.co.kr/hiring)|
+|[Silvy Mobile](http://www.silvymobile.co.kr//)|Objc, Swift|MVC|-|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
 
+[A]
+### [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+- Silvy Mobile
+
 ### [Alamofire](https://github.com/Alamofire/Alamofire)
 - PRND Company
+- Silvy Mobile
 
+### [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC)
+- Silvy Mobile
+
+[B]
+[C]
+### [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
+- Silvy Mobile
+
+### [CocoaSecurity](https://github.com/kelp404/CocoaSecurity)
+- Silvy Mobile
+
+### [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)
+- Silvy Mobile
+
+[D]
+[E]
+[F]
+[G]
+[H]
 ### [Hero](https://github.com/HeroTransitions/Hero)
 - PRND Company
 
+[I]
+[J]
+[K]
+### [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
+- Silvy Mobile
+
+[L]
+[N]
 ### [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 - PRND Company
+
+[M]
+### [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
+- Silvy Mobile
+
+### [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+- Silvy Mobile
+
+[O]
+[P]
+[Q]
+[R]
+### [Reachability](https://github.com/tonymillion/Reachability)
+- Silvy Mobile
 
 ### [RxSwift](https://github.com/ReactiveX/RxSwift)
 - PRND Company
 
+[S]
 ### [SAMKeychain](https://github.com/soffes/SAMKeychain)
 - PRND Company
+
+### [SDWebImage](https://github.com/SDWebImage/SDWebImage)
+- Silvy Mobile
+
+### [SMTPLite](https://github.com/jasenhuang/SMTPLite)
+- Silvy Mobile
 
 ### [SnapKit](https://github.com/SnapKit/SnapKit)
 - PRND Company
@@ -43,9 +97,21 @@
 
 ### [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 - PRND Company
+- Silvy Mobile
 
+### [Sparkle(OS X)](https://sparkle-project.org/)
+- Silvy Mobile
+
+[T]
 ### [Then](https://github.com/devxoul/Then)
 - PRND Company
 
+[U]
 ### [URLNavigator](https://github.com/devxoul/URLNavigator)
 - PRND Company
+
+[V]
+[W]
+[X]
+[Y]
+[Z]
