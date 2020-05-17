@@ -10,8 +10,8 @@
 |회사명/팀명|언어|아키텍쳐|회사 관련 링크|
 |:-:|:-:|:-:|:-:|
 |[PRND Company](https://prnd.co.kr/)|Swift|MVVM|[채용 및 업무환경](https://prnd.co.kr/hiring)|
-|[Silvy Mobile](http://www.silvymobile.co.kr//)|Objc, Swift|MVC, MVVM|-|
-|[Fitpet](http://fitpet.co.kr)|Swift|MVC|-|
+|[Silvy Mobile](http://www.silvymobile.co.kr//)|Objc, Swift|MVC|-|
+|[Fitpet](http://fitpet.co.kr)|Swift|MVC, MVVM|-|
 |[띵스플로우](https://thingsflow.com/ko/home)|Swift|MVVM|[헬로우봇 앱](https://apps.apple.com/th/app/id1294957719)|
 |[중고나라](http://joonggonara.co/)|Swift|MVC, MVVM|[중고나라 채용](http://www.jobkorea.co.kr/Company/16151545/Info)|
 
