@@ -32,9 +32,13 @@
 - Fitpet
 - 띵스플로우
 - 중고나라
+- 딜리셔스
 
 ### [AloeStackView](https://github.com/airbnb/AloeStackView)
 - Fitpet
+
+### [ActionCableClient](https://github.com/danielrhodes/Swift-ActionCableClient)
+- 딜리셔스
 
 [B]
 
@@ -73,6 +77,7 @@
 
 ### [KingFisher](https://github.com/onevcat/Kingfisher)
 - Fitpet
+- 딜리셔스
 
 [L]
 
@@ -97,6 +102,9 @@
 ### [OpenGraph](https://github.com/satoshi-takano/OpenGraph)
 - 띵스플로우
 
+### [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
+- 딜리셔스
+
 [P]
 
 [Q]
@@ -115,6 +123,7 @@
 - 띵스플로우
 - 중고나라
 - Fitpet
+- 딜리셔스
 
 [S]
 ### [SAMKeychain](https://github.com/soffes/SAMKeychain)
@@ -132,6 +141,7 @@
 - PRND Company
 - Fitpet
 - 중고나라
+- 딜리셔스
 
 ### [Spring](https://github.com/MengTo/Spring)
 - PRND Company
@@ -157,6 +167,7 @@
 ### [Then](https://github.com/devxoul/Then)
 - PRND Company
 - 중고나라
+- 딜리셔스
 
 ### [Toast-Swift](https://github.com/scalessec/Toast-Swift)
 - Fitpet
